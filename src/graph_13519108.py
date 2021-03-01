@@ -1,4 +1,4 @@
-from vertex import Vertex
+from vertex_13519108 import Vertex
 
 
 class Graph:

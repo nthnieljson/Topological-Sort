@@ -1,9 +1,9 @@
 import os
-from graph import Graph
-from vertex import Vertex
-from files import readInputFile, convertToGraph
-from solutions import getClassPlan
-from utils import printTitle, printClassPlan
+from graph_13519108 import Graph
+from vertex_13519108 import Vertex
+from files_13519108 import readInputFile, convertToGraph
+from solutions_13519108 import getClassPlan
+from utils_13519108 import printTitle, printClassPlan
 
 
 printTitle()

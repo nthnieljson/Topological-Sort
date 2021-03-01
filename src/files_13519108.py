@@ -1,8 +1,8 @@
 import os
-from graph import Graph
-from vertex import Vertex
+from graph_13519108 import Graph
+from vertex_13519108 import Vertex
 
-TEST_CASE_DIRECTORY = "doc"
+TEST_CASE_DIRECTORY = "test"
 
 
 def readInputFile(filename):
